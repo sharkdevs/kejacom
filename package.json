@@ -1,0 +1,32 @@
+{
+  "name": "kejacom",
+  "version": "1.0.0",
+  "description": "Kejacom is a real estate management software that has been in existance since 2013. we hereby develop it in react and nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharkdevs/kejacom.git"
+  },
+  "keywords": [
+    "Kejacom",
+    "Real",
+    "Estates",
+    "Property",
+    "management",
+    "nodejs",
+    "reactjs"
+  ],
+  "author": "sharkdevs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sharkdevs/kejacom/issues"
+  },
+  "homepage": "https://github.com/sharkdevs/kejacom#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
